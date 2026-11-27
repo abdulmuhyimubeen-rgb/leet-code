@@ -49,8 +49,8 @@ Output: 4
 
 **Language:** C++  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 13.6 MB (beats 78.20%)  
-**Submitted:** 2026-11-21T15:43:26.662Z  
+**Memory:** 13.6 MB (beats 75.30%)  
+**Submitted:** 2026-11-27T16:07:30.603Z  
 
 ```cpp
 class Solution {
@@ -71,11 +71,9 @@ public:
             }
         }
         
-        // If not found, 'left' points to the exact insertion index
         return left;
     }
 };
-
 ```
 
 ---
