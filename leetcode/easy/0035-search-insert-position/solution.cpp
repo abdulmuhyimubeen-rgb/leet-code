@@ -16,7 +16,6 @@ public:
             }
         }
         
-        // If not found, 'left' points to the exact insertion index
         return left;
     }
 };
